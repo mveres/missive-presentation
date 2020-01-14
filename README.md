@@ -74,7 +74,7 @@ https://getmissive.com/
 ## Tracking
 segment.com
 
-![SEGMENT](https://pasteboard.co/IPUCRrz.png "SEGMENT")
+![SEGMENT](segment.png)
 
 
 firebase analytics + facebook analytics + mixpanel
