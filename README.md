@@ -53,6 +53,7 @@ mixpanel.com for insights
 (camera, contacts, oauth, cloudinary, tracking, logging)
 
 https://play.google.com/store/apps/details?id=com.getmissive.missive
+
 https://apps.apple.com/us/app/missive-app/id1472427708#?platform=iphone
 
 ### API server
@@ -72,7 +73,8 @@ https://getmissive.com/
 
 ## Tracking
 segment.com
-![SEGMENT](https://images.ctfassets.net/9u2t3ap6pctb/TqPBykc0TkvqnU2xsDkoi/84c6af769d793e86a6351b94bed0efc5/connections-hero-spot-2-02.svg "SEGMENT")
+
+![SEGMENT](https://pasteboard.co/IPUCRrz.png "SEGMENT")
 
 
 firebase analytics + facebook analytics + mixpanel
@@ -97,6 +99,7 @@ Events tracked:
    - app link clicked
   
 sentry.io for logging
+https://sentry.io/organizations/suggestry-inc/issues/?project=1499488
 
 ## Testing
 
