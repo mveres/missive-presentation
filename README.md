@@ -2,6 +2,12 @@
 
 ![](https://lh3.googleusercontent.com/baBiSLGrkp81hBo8t7rQainAO8pGSI0AIKnK8D5jgHaOKHZBPa_UGRcfjNRRyz1mVA=s360-rw)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ### Content
 
 - the team
@@ -14,9 +20,35 @@
 - marketing
 - interesting challenges
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## The Team
 
+Andreea,
+Stefana,
+Gabriel,
+Mihai
 
+Ted,
+Ranjith
+
+Roxana,
+Rares
+
+Thanks for helping to:
+Darius
+Tamas
+Adrian
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## App Features Demo
 
@@ -35,16 +67,29 @@ https://wishlists.getmissive.com/
 - ideas tab (consumes blog https://getmissive.com )
 - deep linking
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## The numbers
 
 #### Metrics from production:
-- users 618	
-- wishlists 359
-- wishes 1,285 (123 claimed)
-- thankyous 14
+- users: 618	
+- wishlists: 359
+- wishes: 1,285 (123 claimed)
+- thankyous: 14
 _(some of these are tests)_
 
 mixpanel.com for insights
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Tech side (architecture, components, tools)
 
@@ -58,6 +103,7 @@ https://apps.apple.com/us/app/missive-app/id1472427708#?platform=iphone
 
 ### API server
 - node js, mongo, serp api, oauth, send-grid
+- docker
 
 ### Web App
 - node js, react, scss
@@ -70,6 +116,12 @@ https://wishlists.getmissive.com/
 - wordpress, mediabox plugin
 https://getmissive.com/
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Tracking
 segment.com
@@ -101,6 +153,12 @@ Events tracked:
 sentry.io for logging
 https://sentry.io/organizations/suggestry-inc/issues/?project=1499488
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Testing
 
 Automated testing:
@@ -110,7 +168,13 @@ Automated testing:
 * lint (everywhere)
 * github workflows (catalog api), Circle CI (everywhere else)
 
-### _Thank you to QA team!_
+### _Thank you, QA team!_
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Deployment
 
@@ -126,10 +190,22 @@ Everything else:
 - heroku for production
 - (mini demo)
 
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Marketing 
 * google
 * facebook
 * contests
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Interesting challenges
 - webp image conversions (sharp)
@@ -138,5 +214,11 @@ Everything else:
 - mongo migration
 - video recording and sharing
 - catalog notifications
+
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Questions?
