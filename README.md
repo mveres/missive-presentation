@@ -40,8 +40,8 @@ Roxana,
 Rares
 
 Thanks for helping to:
-Darius
-Tamas
+Darius,
+Tamas,
 Adrian
 
 <br />
